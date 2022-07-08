@@ -4,9 +4,10 @@
 <a href="https://instagram.com/sartha.k_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt=""></a></p>
 <p>17m , student from India. I love programming and music.</p>
 <p>Currently learning rust and developing discord bots.</p>
-<p>Free free to contact me on <a href="https://discord.com/users/580034015759826944">discord</a></p>
+<p>Free free to contact me on <a href="https://discord.com/users/580034015759826944">discord</a>.</p>
 <p><img src="https://discord.c99.nl/widget/theme-3/580034015759826944.png"></p>
-<h2 id="tools-i-use-">Tools I use.</h2>
+<details><summary> <strong>Tools I Use</strong></summary>
+<p align="center">
 <table>
 <thead>
 <tr>
@@ -33,12 +34,13 @@
 </tr>
 </tbody>
 </table>
-<details><summary> <strong>My Github Stats</strong> </summary>
+
+</p>
+</details>
+<details><summary> <strong>My Github Stats</strong></summary>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sarthhh&theme=blue-green"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthhh&theme=blue-green">
 </p>
 
 </details>
-
-
