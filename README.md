@@ -1,7 +1,7 @@
 <h1 id="hello-i-am-sarthak-">Hello, I am Sarthak.</h1>
 <p><a href="https://discord.com/users/580034015759826944"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt=""></a>
 <a href="https://open.spotify.com/user/9z11evzi7kskbue2rdiw5un5g?si=d7f9b9f70d474658"><img src="https://img.shields.io/badge/Spotify-1ED760?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt=""></a>
-<a href="https://instagram.com/sartha.k_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt=""></a></p>
+</p>
 <p>17m , student from India. I love programming and music.</p>
 <p>Currently learning rust and developing discord bots.</p>
 <p>Free free to contact me on <a href="https://discord.com/users/580034015759826944">discord</a>.</p>
